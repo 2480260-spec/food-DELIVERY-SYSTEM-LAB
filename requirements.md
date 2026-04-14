@@ -12,6 +12,6 @@ Non-Functional Requirements (NFR)
 • NFR-3: Security: All user data must be fully encrypted at rest and in transit to ensure data privacy.
 • NFR-4: Availability: The system shall maintain a 99.9% uptime (High Availability).
 • NFR-5: Portability/Responsiveness: The UI must be fully responsive, ensuring a seamless experience across both mobile and desktop devices.
-
+NFR1: System response time :The system should load the restaurant list and menu within 3 seconds to provide a smooth user experience.
 
 
