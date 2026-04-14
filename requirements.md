@@ -14,4 +14,4 @@ Non-Functional Requirements (NFR)
 • NFR-5: Portability/Responsiveness: The UI must be fully responsive, ensuring a seamless experience across both mobile and desktop devices.
 NFR1: System response time :The system should load the restaurant list and menu within 3 seconds to provide a smooth user experience.
 
-
+ 
